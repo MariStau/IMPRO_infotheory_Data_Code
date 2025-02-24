@@ -10,4 +10,4 @@ and meteorological data:
 - precipitation_XXX.asc: daily gridded precipitation [mm/d]
 - temperature_XXX.asc: daily gridded temperature [mm/d]
 
-Database: German Weather Service (DWD), Climate Data Center (CDC), processed by Stephan Thober (UFZ) and Anna Herzog
+Database: German Weather Service (DWD), Climate Data Center (CDC), processed by Stephan Thober (UFZ) and Anna Herzog (GFZ/University of Potsdam) 
